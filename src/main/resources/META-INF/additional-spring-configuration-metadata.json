@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "fono.api.url",
+      "type": "java.lang.String",
+      "description": "Description for fono.api.url."
+    },
+    {
+      "name": "fono.api.url",
+      "type": "java.lang.String",
+      "description": "Description for fono.api.url."
+    }
+  ] }

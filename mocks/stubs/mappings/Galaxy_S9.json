@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/Galaxy_S9"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "Samsung_galaxy_s9.json",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  }
+}

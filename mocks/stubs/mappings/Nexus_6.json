@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/Nexus_6"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "Motorola_Nexus_6.json",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  }
+}

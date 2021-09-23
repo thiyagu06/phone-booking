@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/iPhone_8"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "Apple_Iphone_8.json",
+    "headers" : {
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  }
+}
